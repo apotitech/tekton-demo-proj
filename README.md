@@ -1,3 +1,3 @@
 A simple Java project for tekton testing.
 
-详见文章 [云原生 CICD: Tekton Pipeline 实战](https://atbug.com/tekton-pipeline-practice/)
+[CICD: Tekton Pipeline](https://medium.com/@apotitech/cloud-native-cicd-tekton-pipeline-in-action-f2cc5637fa17)
